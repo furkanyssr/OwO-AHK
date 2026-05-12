@@ -5,7 +5,6 @@
 ![Version](https://img.shields.io/badge/Version-2.3-blue.svg)
 ![Language](https://img.shields.io/badge/Language-AutoHotkey-yellow.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
-![Discord](https://img.shields.io/badge/Discord-@wacpy-7289da.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 A handy AutoHotkey (AHK) script designed to automate and speed up operations for Discord game bots (specifically OwO / Hunt). It allows you to quickly send commands for battling, opening crates, checking your inventory, and more using simple keyboard shortcuts.
@@ -13,8 +12,7 @@ A handy AutoHotkey (AHK) script designed to automate and speed up operations for
 </div>
 
 ## 👨‍💻 Developer Information
-* **Developer:** Wacpy
-* **Discord:** @wacpy
+* **Developer:** Furkan Yasar
 * **Version:** 2.3
 
 ## ⚙️ Installation and Usage
