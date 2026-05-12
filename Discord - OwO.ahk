@@ -65,6 +65,3 @@ Return
 SoundBeep
 MsgBox, 64, AHK INFO, Ürün Adı: Discord OwO Ahk`n`nYapımcı: Wacpy`n`nAHK Versiyonu: 2.3`n`nDiscord: @wacpy
 Return
-
-; Versiyon bilgi
-::vr::Version: 2.3
