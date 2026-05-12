@@ -12,20 +12,6 @@ SoundBeep
 Send hhb{Enter}
 Return
 
-^#v::
-; Günlük Komutlar
-SoundBeep
-Send hdaily{Enter}
-SoundBeep
-Send hq{Enter}
-Sleep, 1300
-SoundBeep
-Send hcl{Enter}
-Sleep, 3000
-SoundBeep
-Send hvote{Enter}
-Return
-
 ; Kutu Açılımı
 ^#f::
 SoundBeep
