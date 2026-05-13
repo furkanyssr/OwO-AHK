@@ -22,6 +22,7 @@
 1. Download and install [AutoHotkey](https://www.autohotkey.com/) on your computer.
 2. Right-click the `Discord - OwO.ahk` file and select **Run Script**.
 3. Open a **private/test** Discord text channel and use the shortcut keys listed below to observe the macro execution.
+4. Run this command before you start using it `owo prefix h`
 
 ## ⌨️ Shortcuts and Commands
 
