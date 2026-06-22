@@ -2,7 +2,7 @@
 
 # Discord OwO AHK Script (v2.3)
 
-![Version](https://img.shields.io/badge/Version-2.3-blue.svg)
+![Version](https://img.shields.io/badge/Version-2.4-blue.svg)
 ![Language](https://img.shields.io/badge/Language-AutoHotkey-yellow.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
