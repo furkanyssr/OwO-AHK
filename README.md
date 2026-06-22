@@ -24,6 +24,8 @@
 3. Open a **private/test** Discord text channel and use the shortcut keys listed below to observe the macro execution.
 4. Run this command before you start using it `owo prefix h`
 
+## ⚠️ AutoHotkey v2.0 is required
+
 ## ⌨️ Shortcuts and Commands
 
 The table below lists all the key combinations defined in the script and the actions they perform. A short "Beep" sound will play before and/or after the command to notify you that the script is running.
