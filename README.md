@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Developer Information
 * **Developer:** Furkan Yasar
-* **Version:** 2.3
+* **Version:** 2.4
 
 ## ⚠️ Disclaimer & Educational Purpose
 **This project is strictly for educational, research, and testing purposes.** It is designed to demonstrate how AutoHotkey interacts with text inputs. Using automation tools, self-bots, or macros on Discord directly violates Discord's Terms of Service (ToS) and the OwO Bot's rules. Using this script on live accounts may result in permanent bans. **Use at your own risk. The developer assumes no responsibility for any account sanctions.**
