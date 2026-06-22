@@ -1,6 +1,6 @@
 <div align="center">
 
-# Discord OwO AHK Script (v2.3)
+# Discord OwO AHK Script (v2.4)
 
 ![Version](https://img.shields.io/badge/Version-2.4-blue.svg)
 ![Language](https://img.shields.io/badge/Language-AutoHotkey-yellow.svg)
