@@ -1,67 +1,69 @@
-﻿; Hunt & Savaş
-^#z::
-SoundBeep
-Send hh{Enter}
-SoundBeep
-Send hb{Enter}
-Return
+#Requires AutoHotkey v2.0
+
+; Hunt & Savaş
+^#z:: {
+    SoundBeep()
+    Send("hh{Enter}")
+    SoundBeep()
+    Send("hb{Enter}")
+}
 
 ; Hunt Bot
-^#x::
-SoundBeep
-Send hhb{Enter}
-Return
+^#x:: {
+    SoundBeep()
+    Send("hhb{Enter}")
+}
 
 ; Kutu Açılımı
-^#f::
-SoundBeep
-Send hlb all{Enter}
-SoundBeep
-Send h crate all{Enter}
-Return
+^#f:: {
+    SoundBeep()
+    Send("hlb all{Enter}")
+    SoundBeep()
+    Send("h crate all{Enter}")
+}
 
 ; Para
-^#c::
-SoundBeep
-Send hcash{Enter}
-Return
+^#c:: {
+    SoundBeep()
+    Send("hcash{Enter}")
+}
 
 ; Envanter
-^#n::
-SoundBeep
-Send hinv{Enter}
-Return
+^#n:: {
+    SoundBeep()
+    Send("hinv{Enter}")
+}
 
 ; Bahçe
-^#j::
-SoundBeep
-Send hz{Enter}
-Return
+^#j:: {
+    SoundBeep()
+    Send("hz{Enter}")
+}
 
 ; Weapon Komutu
-^#m::
-SoundBeep
-Send hw{Enter}
-Return
+^#m:: {
+    SoundBeep()
+    Send("hw{Enter}")
+}
 
 ; Boss çağır
-^#b::
-SoundBeep
-Send hboss{Enter}
-Return
+^#b:: {
+    SoundBeep()
+    Send("hboss{Enter}")
+}
 
 ; Yükseltme Komutu
-^#a::
-SoundBeep
-Send h upgrade{Space}
-Send all
-Send ^{Left}
-Send {Space}
-Send {Left}
-Return
+^#a:: {
+    SoundBeep()
+    Send("h upgrade{Space}")
+    Send("all")
+    Send("^{Left}")
+    Send("{Space}")
+    Send("{Left}")
+}
 
 ; AHK Bilgi
-^#u::
-SoundBeep
-MsgBox, 64, AHK INFO, AHK Name: Discord OwO Ahk`n`nDeveloper: Furkan Yasar`n`nAHK Version: 2.3
-Return
+^#u:: {
+    SoundBeep()
+    MsgBox("Requires AutoHotkey v2.0`n`nAHK NAME: Discord OwO Ahk`n`nDeveloper: Furkan Yasar`n`nAHK VERSION: 2.4`n`n", "AHK INFO", 64)
+}
